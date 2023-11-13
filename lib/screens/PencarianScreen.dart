@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:wisata_pantai_indo/data/pantai_data.dart';
-// import 'package:wisata_candi/models/candi.dart';
 import '../models/pantai.dart';
 
 class PencarianScreen extends StatefulWidget {
